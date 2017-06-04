@@ -550,7 +550,7 @@ namespace MapDocOperate
 
         private void 添加图层ToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-
+            int i = 0;
         }
 
 
